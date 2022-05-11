@@ -10,3 +10,6 @@ Best equipment to beat the hardest challenge.
 ## IDE
 
 * PyCharm
+
+## Code Quality
+* SonarCube
